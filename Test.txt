@@ -1,4 +1,5 @@
 branch 를 공부해 봅니다.
 git branch branch_name
 git checkout develop  >> move to branch
+git switch develop >> move to branch 
 
