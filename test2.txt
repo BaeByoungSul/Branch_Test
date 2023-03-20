@@ -2,3 +2,10 @@ Hello
 I'm BaeByoungSul~~
 
 1) fork > create branch devBranch >> devBranch로 이동 >> 수정 및 commit
+2-1) fork > create branch devBranch >> devBranch로 이동 >> pull request 
+2-2) . BaeByoungSul( xyz5787@naver.com) 으로 로그인 
+     . 해당 repository 선택 >> 해당 pull request 선택 >> merge pull request
+       -. PR을 받은 원본 저장소 관리자는 코드 변경내역을 확인하고 Merge 여부를 결정한다
+
+
+
